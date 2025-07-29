@@ -1,9 +1,9 @@
+![Imago Logo](assets/imago-logo.png)
+
 # Imago Template Repository
 
 Welcome to the Imago template repository!  
 This repository provides a starting point for open, collaborative outputs that support the use of satellite imagery.
-
----
 
 ## 🚀 How to Use This Template
 
@@ -15,9 +15,8 @@ This repository provides a starting point for open, collaborative outputs that s
    - Configure the [All Contributors Bot](https://allcontributors.org/) for contributor recognition.
 5. **Replace or add your own code, data, and documentation** in the appropriate folders.
 
----
 
-## 📝 Contributing
+## 🛠️ Contributing
 
 We welcome contributions of all kinds—code, documentation, ideas, and more!  
 Please read our [Contributing Guidelines](CONTRIBUTING.md) for step-by-step instructions on how to:
@@ -31,9 +30,8 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for step-by-step inst
 If you’re new to open source, our guidelines are designed to make it easy for you to get started.  
 If you have questions, open an issue or start a discussion!
 
----
 
-## 📜 License
+## 🙋 License
 
 This repository uses a dual-licensing approach:
 
@@ -42,7 +40,6 @@ This repository uses a dual-licensing approach:
 
 See the [LICENSE](LICENSE) file for full details.
 
----
 
 ## 🗂️ Repository Structure
 
@@ -53,7 +50,6 @@ See the [LICENSE](LICENSE) file for full details.
 - `LICENSE` — Licensing information
 - `README.md` — Project overview and instructions
 
----
 
 ## 🎉 Acknowledging Contributors
 
