@@ -1,4 +1,5 @@
-![Imago Logo](assets/Imago-logo.png)
+
+<img src="assets/Imago-logo.png" alt="Imago Logo" width="200"/>
 
 # Imago Template Repository
 
