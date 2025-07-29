@@ -1,5 +1,5 @@
 
-<img src="assets/Imago-logo.png" alt="Imago Logo" width="200"/>
+<img src="assets/Imago-logo.png" alt="Imago Logo" width="300"/>
 
 # Imago Template Repository
 
