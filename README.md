@@ -1,4 +1,4 @@
-![Imago Logo](assets/imago-logo.png)
+![Imago Logo](assets/Imago-logo.png)
 
 # Imago Template Repository
 
