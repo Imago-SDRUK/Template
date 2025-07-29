@@ -43,14 +43,14 @@ Thank you for your interest in contributing to this project! We welcome all kind
 
 ---
 
-## 📝 Using Issue & PR Templates
+## 💡 Using Issue & PR Templates
 
 - When reporting a bug or requesting a feature, please use the provided **issue templates** for clear and helpful reports.
 - When submitting a pull request, fill out the **PR template** to describe your changes and link related issues.
 
 ---
 
-## 🤝 Acknowledging Contributors with All Contributors Bot
+## ✨ Acknowledging Contributors with All Contributors Bot
 
 We celebrate all contributions! 🎉  
 We use the [All Contributors Bot](https://allcontributors.org/) to recognize everyone’s work—code, docs, ideas, design, and more.
