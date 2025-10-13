@@ -71,6 +71,33 @@ We use the [All Contributors Bot](https://allcontributors.org/) to recognize eve
 See the [emoji key](https://allcontributors.org/docs/en/emoji-key) for all the ways you can be recognized.
 
 ---
+## GitHub Access and Team Setup
+
+We have completed the setup of GitHub access and team structures for the **IMAGO Project**.  
+Each product team now has its own dedicated GitHub team, and all members have been assigned accordingly.
+
+🔗 **Teams Directory:** [IMAGO GitHub Teams](https://github.com/orgs/Imago-SDRUK/teams)
+
+---
+
+## Team and Repository Structure
+- Each **product team** has a corresponding **private repository**.  
+- Teams are responsible for maintaining their own repositories.  
+- When a repository is ready to be shared publicly, it will be made available for everyone.  
+
+---
+
+## Access Policy
+- All organization members have access to both **public** and **private** repositories within the IMAGO Project.
+---
+
+## Offboarding Process
+When a member leaves the **IMAGO Project**:
+- Their membership will be converted to an **Outside Collaborator**.  
+- They will retain access only to the **repositories (public or private)** they contributed to.  
+- They will no longer be listed as a member of the organization.
+
+---
 
 ## 🐛 Reporting Issues
 
